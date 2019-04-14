@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">State Capitals</string>
+    <string name="S1">s1</string>
+    <string name="B1">b1</string>
+    <string name="B2">b2</string>
+    <string name="B3">b3</string>
+    <string name="B4">b4</string>
+    <string name="B5">b5</string>
+</resources>
